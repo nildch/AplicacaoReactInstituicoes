@@ -1,0 +1,34 @@
+{
+  "institutions": [
+    {
+      "id": "1",
+      "name": "Universidade do Saber",
+      "address": "Rua da Educação, 123, Centro"
+    },
+    {
+      "id": "2",
+      "name": "Faculdade do Futuro",
+      "address": "Avenida do Conhecimento, 456, Zona Sul"
+    },
+    {
+      "id": "4f39",
+      "name": "Ecit Marcia Guedes Alcoforado de carvalho",
+      "address": "Belém - PB"
+    },
+    {
+      "name": "Escola Anitta de Melo Barbosa Lima ",
+      "address": "Belém - PB, Rua Clóvis Bezerra ",
+      "id": "ab96"
+    },
+    {
+      "id": "b684",
+      "name": "Escola Arcoiris",
+      "address": "Praça 6 de Setembro"
+    },
+    {
+      "id": "7207",
+      "name": "IFPB - Campus Guarabira",
+      "address": "Guarabira "
+    }
+  ]
+}
