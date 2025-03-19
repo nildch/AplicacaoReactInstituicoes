@@ -83,15 +83,7 @@ const InstitutionsPage = () => {
         institution={selectedInstitution}
         handleSave={handleSave}
       />
-
-      
-    
-      <footer>
-        <p></p>
-      </footer>
     </Container>
-
-    
   );
 };
 

@@ -26,9 +26,19 @@
       "address": "Praça 6 de Setembro"
     },
     {
-      "id": "7207",
+      "id": "793b",
+      "name": "Escola Maria José ",
+      "address": "São Paulo "
+    },
+    {
       "name": "IFPB - Campus Guarabira",
-      "address": "Guarabira "
+      "address": "Guarabira ",
+      "id": "520e"
+    },
+    {
+      "id": "75b2",
+      "name": "Escola Francisca Leite Braga",
+      "address": "Belém, PB"
     }
   ]
 }
